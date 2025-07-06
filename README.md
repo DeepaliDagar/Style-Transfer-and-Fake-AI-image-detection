@@ -1,4 +1,4 @@
-# CV Final Project
+
 
 This repository contains the final group project for the Advanced Computer Vision course. Our project explores two core computer vision challenges applied to an art dataset:
 	•	Style Transfer – applying the style of a reference artwork (e.g., Cubism) to a target image
